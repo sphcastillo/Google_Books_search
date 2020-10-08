@@ -16,9 +16,9 @@ Author : Sophia Castillo,
 
 Email : Sphcastillo@gmail.com,
 
-GitHub : https://github.com/sphcastillo
+GitHub : https://github.com/sphcastillo,
 
-Heroku Deplyed Site :
+Heroku Deployed Site :
 https://warm-reaches-29237.herokuapp.com/
 
 <img src="assets/picture1.png">
